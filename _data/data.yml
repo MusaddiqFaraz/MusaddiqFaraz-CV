@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Syed Musaddiq Faraz
     tagline: Android Applications Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: musaddiq.faraz1@gmail.com
