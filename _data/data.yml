@@ -19,22 +19,20 @@ sidebar:
     website: musaddiqfaraz.github.io #do not add http://
     linkedin: syedmusaddiqfaraz
     github: MusaddiqFaraz
-    twitter: 'twitter_handle'
-    codewars: codewars_username
 
     languages:
         - language:
           idiom: English
-          level: Professional
+          level: Proficient
         - language:
           idiom: Urdu
-          level: Native
+          level: Proficient
         - language:
           idiom: Kannada
-          level: Native
+          level: Proficient
         - language:
           idiom: Hindi
-          level: Native
+          level: Proficient
         
     interests:
         - interest:
@@ -57,10 +55,10 @@ studies:
       degree: BE in Computer Science
       university: RNS Institute of Technology
       time: 2012 - 2016
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      # details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      # elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      # magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      # pellentesque eu, pretium quis, sem."
 
     
 
