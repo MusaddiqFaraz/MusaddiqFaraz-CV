@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'http://webjeda.com'
-    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    # about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Syed Musaddiq Faraz
@@ -55,7 +55,7 @@ career-profile:
 studies: 
     - education:
       degree: BE in Computer Science
-      university: VTU
+      university: RNS Institute of Technology
       time: 2012 - 2016
       # details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       # elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
